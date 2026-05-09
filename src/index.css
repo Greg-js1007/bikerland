@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+@import '@fontsource-variable/space-grotesk/wght.css';
+
+@theme {
+    --color-orange-primary: #FF5F1F;
+    --color-stone-secundary: #1A1A1B;
+    --color-stone-terciary: #2E2E2E; 
+    --color-black-neutral: #0D0D0D; 
+    --font-space-grotesk: 'Space Grotesk Variable', sans-serif;
+    --font-inter : 'Inter Variable', sans-serif;
+    --breakpoint-xs: 20rem;
+}
+
+h1,h2,h3,a, button{
+    font-family: 'Space Grotesk Variable', sans-serif;
+}
+
+p, span{
+    font-family: 'Inter Variable', sans-serif;;
+}
