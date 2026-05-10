@@ -7,7 +7,7 @@ const Hero = () => {
             <figure className="h-full w-full">
                 <img
                     className="md:w-full md:h-full object-cover object-[75%] md:object-center"
-                    src="../assets/bg-bike-home.jpg"
+                    src="/assets/bg-bike-home.jpg"
                     alt="A high-performance black and orange sport motorcycle captured in a dramatic, low-angle studio shot with cinematic industrial lighting."
                 />
             </figure>
