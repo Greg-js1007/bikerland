@@ -4,10 +4,10 @@ const Hero = () => {
     return (
         <header className="relative w-full h-100 lg:h-150 overflow-hidden bg-neutral-950">
 
-            <figure className="h-full w-full">
+            <figure className="h-full w-full aspect-3/2">
                 <img
                     className="md:w-full md:h-full object-cover object-[75%] md:object-center"
-                    src="/assets/bg-bike-home.jpg"
+                    src="/assets/bg-bike-home2.jpg"
                     alt="A high-performance black and orange sport motorcycle captured in a dramatic, low-angle studio shot with cinematic industrial lighting."
                 />
             </figure>
