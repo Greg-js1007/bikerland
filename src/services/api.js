@@ -1,4 +1,4 @@
-const API_URL = "/public/motos.json";
+const API_URL = "/motos.json";
 
 export const obtenerDatos = async () => {
     try {
